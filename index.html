@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Media Library SPA</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>🎬 Media Library</h1>
+        <p>Search & Discover Movies and Series</p>
+    </header>
+
+    <nav class="filters">
+        <input type="text" id="searchInput" placeholder="Search by title...">
+
+        <select id="typeFilter">
+            <option value="all">All Types</option>
+            <option value="Movie">Movie</option>
+            <option value="Series">Series</option>
+        </select>
+
+        <input type="number" id="yearFrom" placeholder="From (Year)" min="1900">
+        <input type="number" id="yearTo" placeholder="To (Year)" min="1900">
+
+        <select id="ratingFilter">
+            <option value="all">All Ratings</option>
+            <option value="9">9+</option>
+            <option value="8">8+</option>
+            <option value="7">7+</option>
+        </select>
+
+        <button id="favoritesBtn">❤️ Favorites</button>
+    </nav>
+
+    <main id="app"></main>
+
+    <footer>
+        <p>ISE-201 Web Technologies Project</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
