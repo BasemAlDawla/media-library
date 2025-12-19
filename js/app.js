@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", () => {
         applyFilters();
     };
 
-    const applyFilters = () => {
+    window.applyFilters = () => {
         let result = [...mediaList];
 
         if (showFavorites) {
@@ -129,3 +129,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
     fetchMedia();
 });
+
