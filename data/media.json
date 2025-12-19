@@ -40,16 +40,6 @@
     "trailerId": "KnrRy6kSFF0"
   },
   {
-    "id": 5,
-    "title": "Gladiator",
-    "type": "Movie",
-    "year": 2000,
-    "rating": 8.5,
-    "description": "A former Roman General seeks revenge after being betrayed.",
-    "image": "https://image.tmdb.org/t/p/w500/pRn3TJHbAqCAOqeoR8X6E27jS7w.jpg",
-    "trailerId": "owK1qxDselE"
-  },
-  {
     "id": 6,
     "title": "The Shawshank Redemption",
     "type": "Movie",
@@ -150,3 +140,4 @@
     "trailerId": "lB95KLmpLR4"
   }
 ]
+
