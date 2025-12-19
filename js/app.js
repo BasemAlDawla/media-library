@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let favorites = JSON.parse(localStorage.getItem("favorites")) || [];
     let showFavorites = false;
     let lastRenderedList = [];
+    window.lastRenderedList = lastRenderedList;
 
     const fetchMedia = async () => {
         try {
@@ -25,8 +26,8 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
-    const render = (list) => {
-        lastRenderedList = list; 
+    window.render = (list) => {
+        window.lastRenderedList = list; 
         app.innerHTML = "";
 
         list.forEach(item => {
@@ -129,4 +130,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
     fetchMedia();
 });
+
 
