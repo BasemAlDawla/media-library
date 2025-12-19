@@ -38,7 +38,7 @@
     "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset.",
     "image": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
     "trailerId": "n9xhJrPXop4"
-  }
+  },
   {
     "id": 5,
     "title": "The Shawshank Redemption",
@@ -138,7 +138,7 @@
     "description": "The founding of Facebook and the legal battles that followed.",
     "image": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
     "trailerId": "lB95KLmpLR4"
-  }
+  },
   {
     "id": 15,
     "title": "Chernobyl",
@@ -149,9 +149,4 @@
     "image": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
     "trailerId": "s9APLXM9Ei8"
   }
-
 ]
-
-
-
-
