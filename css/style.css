@@ -35,8 +35,10 @@ header {
 #app {
     padding: 1.5rem;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fill, 260px);
+    justify-content: center;
     gap: 20px;
+}
 }
 
 .card {
