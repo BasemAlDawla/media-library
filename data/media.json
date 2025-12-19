@@ -148,5 +148,96 @@
     "description": "A dramatization of the true story of the Chernobyl nuclear disaster.",
     "image": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
     "trailerId": "s9APLXM9Ei8"
+  },
+  {
+    "id": 16,
+    "title": "The Conjuring",
+    "type": "Movie",
+    "year": 2013,
+    "rating": 7.5,
+    "description": "Paranormal investigators help a family terrorized by a dark presence.",
+    "image": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+    "trailerId": "k10ETZ41q5o"
+  },
+  {
+    "id": 17,
+    "title": "Annabelle",
+    "type": "Movie",
+    "year": 2014,
+    "rating": 5.5,
+    "description": "A possessed doll terrorizes a young family.",
+    "image": "https://image.tmdb.org/t/p/w500/yAgxM61Sn0dYML4C9v3MJFp5zPI.jpg",
+    "trailerId": "paFgQNPGlsg"
+  },
+  {
+    "id": 18,
+    "title": "The Nun",
+    "type": "Movie",
+    "year": 2018,
+    "rating": 5.3,
+    "description": "A priest uncovers a dark secret at a Romanian abbey.",
+    "image": "https://image.tmdb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+    "trailerId": "pzD9zGcUNrw"
+  },
+  {
+    "id": 19,
+    "title": "Incantation",
+    "type": "Movie",
+    "year": 2022,
+    "rating": 6.8,
+    "description": "A mother tries to protect her daughter from a deadly curse.",
+    "image": "https://image.tmdb.org/t/p/w500/6bVfN4xkN0iE9Z2VN3C0Q1Ik0fN.jpg",
+    "trailerId": "HnyNZdcL_GY"
+  },
+  {
+    "id": 20,
+    "title": "The Curse of La Llorona",
+    "type": "Movie",
+    "year": 2019,
+    "rating": 5.3,
+    "description": "A terrifying apparition stalks children after a curse is unleashed.",
+    "image": "https://image.tmdb.org/t/p/w500/jE3slKswJy7HEX7QmPBpQl7H2tD.jpg",
+    "trailerId": "uovH5kL1cJ4"
+  },
+  {
+    "id": 21,
+    "title": "Insidious",
+    "type": "Movie",
+    "year": 2010,
+    "rating": 6.8,
+    "description": "A family looks to prevent evil spirits from trapping their child.",
+    "image": "https://image.tmdb.org/t/p/w500/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg",
+    "trailerId": "zuZnRUcoWos"
+  },
+  {
+    "id": 22,
+    "title": "Munafik",
+    "type": "Movie",
+    "year": 2016,
+    "rating": 6.3,
+    "description": "A religious healer faces supernatural forces tied to dark faith.",
+    "image": "https://image.tmdb.org/t/p/w500/1omwX6pFazjQ4hVfF4gU0FJgk8D.jpg",
+    "trailerId": "ZbZQq7A0QpM"
+  },
+  {
+    "id": 23,
+    "title": "Malam Terlarang",
+    "type": "Movie",
+    "year": 2023,
+    "rating": 6.1,
+    "description": "A forbidden ritual unleashes terrifying consequences.",
+    "image": "https://image.tmdb.org/t/p/w500/lrYQJ1C6J4Jb7YtXj6W9dJcZxkR.jpg",
+    "trailerId": "nE5nZ9E6Q1Q"
+  },
+  {
+    "id": 24,
+    "title": "Gonjiam: Haunted Asylum",
+    "type": "Movie",
+    "year": 2018,
+    "rating": 6.4,
+    "description": "A group of horror streamers enter a haunted asylum.",
+    "image": "https://image.tmdb.org/t/p/w500/dkK4N6NqZlJQz8J5J5m1kZzXw1B.jpg",
+    "trailerId": "y3FzY2lGq5Q"
   }
 ]
+
