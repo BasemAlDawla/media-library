@@ -31,14 +31,14 @@
   },
   {
     "id": 4,
-    "title": "Inglourious Basterds",
+    "title": "Dune",
     "type": "Movie",
-    "year": 2009,
-    "rating": 8.3,
-    "description": "A group of Jewish soldiers plot to assassinate Nazi leaders in occupied France.",
-    "image": "https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
-    "trailerId": "KnrRy6kSFF0"
-  },
+    "year": 2021,
+    "rating": 8.0,
+    "description": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset.",
+    "image": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "trailerId": "n9xhJrPXop4"
+  }
   {
     "id": 5,
     "title": "The Shawshank Redemption",
@@ -139,6 +139,18 @@
     "image": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
     "trailerId": "lB95KLmpLR4"
   }
+  {
+    "id": 17,
+    "title": "Chernobyl",
+    "type": "Series",
+    "year": 2019,
+    "rating": 9.4,
+    "description": "A dramatization of the true story of the Chernobyl nuclear disaster.",
+    "image": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+    "trailerId": "s9APLXM9Ei8"
+  }
+
 ]
+
 
 
