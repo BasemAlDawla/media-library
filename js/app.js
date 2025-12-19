@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let mediaList = [];
     let favorites = JSON.parse(localStorage.getItem("favorites")) || [];
     let showFavorites = false;
+    let lastRenderedList = [];
 
     const fetchMedia = async () => {
         try {
@@ -25,12 +26,14 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     const render = (list) => {
+        lastRenderedList = list; 
         app.innerHTML = "";
+
         list.forEach(item => {
             const card = document.createElement("div");
             card.className = "card";
             card.innerHTML = `
-                <img src="${item.image}" 
+                <img src="${item.image}"
                      alt="${item.title}"
                      onerror="this.src='https://via.placeholder.com/500x750?text=No+Image'">
 
@@ -68,7 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     allowfullscreen>
                 </iframe>
 
-                <button onclick="applyFilters()">⬅ Back</button>
+                <button onclick="render(lastRenderedList)">⬅ Back</button>
             </div>
         `;
     };
